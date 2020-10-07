@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "121619598508",
+    "firebase_url": "https://crud-cursos-d8ccd.firebaseio.com",
+    "project_id": "crud-cursos-d8ccd",
+    "storage_bucket": "crud-cursos-d8ccd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121619598508:android:73481acb25ded1c07a2309",
+        "android_client_info": {
+          "package_name": "com.example.crud_curso_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121619598508-nq26c4oatnqaa10lrccvl3amirjfl667.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAV1ImghrlDJNhVvVZRO4Hz6iuBxa8878"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121619598508-nq26c4oatnqaa10lrccvl3amirjfl667.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
